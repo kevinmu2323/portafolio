@@ -1,0 +1,91 @@
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 0;  
+    padding: 0;  
+    line-height: 1.6;  
+    background-color: rgba(0, 0, 0, 0.8);
+    text-shadow: 0 0 10px rgb(165, 0, 190), /* Resplandor */  
+    0 0 20px #a500be,  
+    0 0 30px rgba(255, 0, 255, 0.845);
+}  
+header {  
+    background: #11e218b4;  
+    color: #fff;  
+    padding: 10px 20px;  
+    text-align: center;  
+    color:gold;
+   border-radius: 10%;
+   border-color: black;
+}  
+nav {  
+    margin: 15px 0;  
+}  
+nav a {  
+    margin: 0 15px;  
+    text-decoration: none;  
+    color: white;  
+}  
+main {  
+    padding: 20px;  
+}  
+footer {  
+    background: #333;  
+    color: white;  
+    text-align: center;  
+    padding: 10px 0;  
+    position: relative;  
+    bottom: 0;  
+    width: 100%;  
+}  
+@media (max-width: 600px) {  
+    nav a {  
+        display: block;  
+        margin: 10px 0;  
+    }  
+}  
+h2
+{
+text-decoration: underline;
+text-align: center;
+background-color: rgb(84, 82, 82)
+}
+#home
+{
+ color: gold; 
+    background-color: rgba(254, 13, 17, 0.255);
+    margin-bottom: 20%;
+    margin-top: 10%;
+}
+#about
+{
+    color: gold; 
+    background-color: rgba(254, 13, 17, 0.255);    
+    margin-bottom: 20%;
+    margin-top: 10%;
+}
+#educativa
+{
+    color: gold; 
+    background-color: rgba(254, 13, 17, 0.255);
+    margin-bottom: 20%;
+    margin-top: 10%;
+}
+h3
+{
+    text-align: center;
+    background-color: darkred;
+}
+p
+{
+text-align: center;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-bottom: 2%;
+font-size:90%;
+}
+img
+{
+   
+    width: 5%;
+    height: 4%;
+    margin-bottom: -1%;
+}
