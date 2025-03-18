@@ -30,7 +30,7 @@ main {
     padding: 20px;  
 }  
 footer {  
-    background: #333;  
+    background: #000000;  
     color: white;  
     text-align: center;  
     padding: 10px 0;  
@@ -54,7 +54,7 @@ background-color: rgb(84, 82, 82)
 {
  color: gold; 
     background-color: rgba(254, 13, 17, 0.255);
-    margin-bottom: 20%;
+    margin-bottom: 24%;
     margin-top: 10%;
     border:10px solid gold;
     
@@ -63,7 +63,7 @@ background-color: rgb(84, 82, 82)
 {
     color: gold; 
     background-color: rgba(254, 13, 17, 0.255);    
-    margin-bottom: 20%;
+    margin-bottom: 24%;
     margin-top: 10%;
     border:10px solid gold;
 }
