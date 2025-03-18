@@ -4,7 +4,7 @@ body {
     padding: 0;  
     line-height: 1.6;  
     background-color: rgba(0, 0, 0, 0.8);
-    text-shadow: 0 0 10px rgb(165, 0, 190), /* Resplandor */  
+    text-shadow: 0 0 10px rgb(165, 0, 190), 
     0 0 20px #a500be,  
     0 0 30px rgba(255, 0, 255, 0.845);
 }  
@@ -15,7 +15,8 @@ header {
     text-align: center;  
     color:gold;
    border-radius: 10%;
-   border-color: black;
+   border:10px solid black;
+  
 }  
 nav {  
     margin: 15px 0;  
@@ -55,6 +56,8 @@ background-color: rgb(84, 82, 82)
     background-color: rgba(254, 13, 17, 0.255);
     margin-bottom: 20%;
     margin-top: 10%;
+    border:10px solid gold;
+    
 }
 #about
 {
@@ -62,6 +65,7 @@ background-color: rgb(84, 82, 82)
     background-color: rgba(254, 13, 17, 0.255);    
     margin-bottom: 20%;
     margin-top: 10%;
+    border:10px solid gold;
 }
 #educativa
 {
@@ -69,6 +73,7 @@ background-color: rgb(84, 82, 82)
     background-color: rgba(254, 13, 17, 0.255);
     margin-bottom: 20%;
     margin-top: 10%;
+    border:10px solid gold;
 }
 h3
 {
